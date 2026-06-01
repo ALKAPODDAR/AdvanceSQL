@@ -15,4 +15,4 @@ This project helped me gain practical experience in transforming raw data into m
 - Date Functions
 - Pivoting & Rolling Calculations
 
-dataset source: Udemy (SQL for Data Analysis - Advanced SQL Querying Techniques)
+dataset source: Udemy - SQL for Data Analysis - Advanced SQL Querying Techniques (Maven Analytics)
