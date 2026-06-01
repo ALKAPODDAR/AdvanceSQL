@@ -1,4 +1,4 @@
-## Problem
+## Problem Statement
 Baseball organizations generate large amounts of historical player, salary, and team data. The objective of this project was to analyze:
 - Which schools produce the most professional players
 - How team salary spending has evolved over time
