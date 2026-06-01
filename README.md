@@ -20,10 +20,12 @@ Tasks:
 - Determine how many schools produced players in each decade
 - Identify the top schools producing professional players
 - Find the top 3 player-producing schools for every decade
+
 Key Insights:
 - Certain schools consistently produced professional players across multiple decades.
 - A small group of schools contributed a disproportionately large share of professional talent.
 - School influence changed over time, with different institutions dominating different eras.
+
 SQL Concepts Used:
 - CTEs
 - ROW_NUMBER()
@@ -36,11 +38,13 @@ Tasks:
 - Identify the top 20% highest-spending teams
 - Compute cumulative salary spending over time
 - Find the first year each team surpassed $1 billion in total spending
+  
 Key Insights:
 - Salary spending increased significantly over time across most teams.
 - A small number of teams consistently outspent competitors.
 - Several franchises crossed the $1 billion cumulative spending mark much earlier than others, indicating long-term financial dominance.
 - Spending patterns highlighted competitive differences between teams.
+  
 SQL Concepts Used:
 - NTILE()
 - Running Totals
@@ -55,11 +59,13 @@ Tasks:
 - Measure career length
 - Identify teams players started and ended their careers with
 - Find players who spent over a decade with the same team
+  
 Key Insights:
 - Career lengths varied significantly among players.
 - Some athletes maintained careers spanning multiple decades.
 - Long-tenured players demonstrated strong team loyalty by starting and ending their careers with the same organization.
 - Player debut ages remained relatively consistent across generations.
+  
 SQL Concepts Used:
 - TIMESTAMPDIFF()
 - Date Calculations
@@ -72,11 +78,13 @@ Tasks:
 - Analyze batting-hand distribution by team
 - Examine changes in player height and weight over time
 - Calculate decade-over-decade physical attribute changes
+  
 Key Insights:
 - Right-handed batters represented the majority of players across teams.
 - Switch hitters remained a relatively small percentage of the player population.
 - Average player height and weight increased over successive decades.
 - Modern players tend to be larger and heavier than players from earlier generations.
+  
 SQL Concepts Used:
 - GROUP_CONCAT()
 - Conditional Aggregation
