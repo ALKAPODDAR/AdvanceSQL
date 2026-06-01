@@ -5,7 +5,7 @@
 
 This project helped me gain practical experience in transforming raw data into meaningful insights using industry-relevant SQL techniques.
 
-# Topics:
+# Strength:
 - Joins
 - Subqueries
 - CTEs
