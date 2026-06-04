@@ -128,4 +128,4 @@ This project demonstrates the ability to solve real-world analytical problems us
 
 
 
-dataset source: Udemy - SQL for Data Analysis - Advanced SQL Querying Techniques (Maven Analytics)
+dataset source: kaggle
